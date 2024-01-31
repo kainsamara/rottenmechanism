@@ -3,11 +3,7 @@ title: "Добро пожаловать в Blowfish! :tada:"
 description: "Эта страница была сгенерирована темой Blowfish для Hugo."
 ---
 
-Добро пожаловать в Blowfish, one of the most flexible and robust Hugo themes. It is designed to be simple, fast and content-focused. Learn more about how to install [here]({{< ref "docs/installation" >}}) or get started with our CLI using:
-
-```node
-npx blowfish-tools
-```  
+Добро пожаловать^^ Я тут немножечко угорел и решил сайт запилить, поставил тему Blowfish, и сейчас занимаюсь наполнением локально, так что скоро всё будет, а пока можете заценить шаблон. 
 
 <!--You can also find the complete theme documentation in [docs]({{< ref "docs" >}}). Blowfish is highly customizable and can be configured to fit your needs: from a static website to a blog. Checkout some [examples](/examples) and what some of our [users](/users) have been building.
 

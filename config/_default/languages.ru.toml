@@ -10,16 +10,16 @@ title = "Rotten Mechanism"
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
   # secondaryLogo = "PATH"
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  # copyright = "Copyright RM Team"
+  # description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  copyright = "Copyright RM Team"
 
 [author]
   name = "Rotten Mechanism"
   image = "img/blowfish_logo.png"
-  headline = "Тут хед"
-  bio = "А тут описание"
-  links = [
-      { github = "https://github.com/kainsamara" },
-  ]
+  headline = "Опаньки, здраасти^^"
+  # bio = "Тут био"
+  # links = [
+  #     { github = "https://github.com/kainsamara" },
+  # ]
 
   

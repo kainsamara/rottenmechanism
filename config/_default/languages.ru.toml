@@ -1,0 +1,25 @@
+languageCode = "ru"
+languageName = "Русский"
+weight = 1
+title = "Rotten Mechanism"
+
+[params]
+  displayName = "RU"
+  isoCode = "ru"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/blowfish_logo_transparent.png"
+  # secondaryLogo = "PATH"
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  # copyright = "Copyright RM Team"
+
+[author]
+  name = "Rotten Mechanism"
+  image = "img/blowfish_logo.png"
+  headline = "Тут хед"
+  bio = "А тут описание"
+  links = [
+      { github = "https://github.com/kainsamara" },
+  ]
+
+  

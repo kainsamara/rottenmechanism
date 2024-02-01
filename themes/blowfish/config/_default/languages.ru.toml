@@ -8,14 +8,14 @@ title = "Rotten Mechanism"
   isoCode = "ru"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo.png"
+  logo = "img/rotten_logo.png"
   secondaryLogo = "img/secondary-logo.png"
   description = "RM website"
   copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Your name here"
-   image = "img/blowfish_logo.png"
+   image = "img/rotten_logo.png"
    headline = "I'm only human"
    bio = "A little bit about you"
 #   links = [

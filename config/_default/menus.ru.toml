@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Доки"
+  name = "Документация"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Команды"
+  name = "Шорткоды"
   pageRef = "docs/shortcodes"
   weight = 15
 
@@ -28,7 +28,7 @@
   name = "Образцы"
   parent = "Примеры"
   pageRef = "samples"
-  weight = 16
+  weight = 40
 
 [[main]]
   name = "Кейсы"
@@ -37,20 +37,20 @@
   weight = 30
 
 [[main]]
-  name = "Рецепты"
+  name = "Гайды"
   parent = "Примеры"
   pageRef = "guides"
-  weight = 40
+  weight = 16
 
 [[main]]
-  name = "Юзера"
+  name = "Пользователи"
   pageRef = "users"
   weight = 90
 
-[[main]]
-  name = "Мерч"
-  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
-  weight = 100
+#[[main]]
+#  name = "Мерч"
+#  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
+#  weight = 100
 
 #[[main]]
 #  name = "Тест"
@@ -72,7 +72,7 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/kainsamara"
   weight = 400
 
 

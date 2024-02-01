@@ -1,5 +1,5 @@
 ---
-title: "Добро пожаловать в Blowfish! :tada:"
+title: "Rotten Mechanism"
 description: "Эта страница была сгенерирована темой Blowfish для Hugo."
 ---
 

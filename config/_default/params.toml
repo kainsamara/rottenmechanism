@@ -18,7 +18,7 @@ mainSections = ["docs"]
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/img/ocean.jpg"
+defaultBackgroundImage = "/img/landscape.jpg"
 defaultFeaturedImage = "/img/ocean.jpg"
 
 highlightCurrentMenuArea = true
@@ -128,12 +128,12 @@ smartTOCHideUnfocusedChildren = false
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
-[buymeacoffee]
-  identifier = "nunocoracao"
-  globalWidget = true
-  globalWidgetMessage = ""
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "Right"
+#[buymeacoffee]
+#  identifier = "nunocoracao"
+#  globalWidget = true
+#  globalWidgetMessage = ""
+#  globalWidgetColor = "#FFDD00"
+#  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""

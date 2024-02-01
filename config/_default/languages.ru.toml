@@ -8,16 +8,16 @@ title = "Rotten Mechanism"
   isoCode = "ru"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
-  # secondaryLogo = "PATH"
+  logo = "img/rotten_logo_transparent.png"
+  # secondaryLogo = "img/rotten_logo_transparent.png"
   # description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  copyright = "Copyright RM Team"
+  copyright = "© RM, 2K24"
 
 [author]
   name = "Rotten Mechanism"
-  image = "img/blowfish_logo.png"
-  headline = "Опаньки, здраасти^^"
-  # bio = "Тут био"
+  image = "img/rotten_logo.png"
+  headline = "Опаньки, здраасти :))"
+  bio = "Как жеж вас сюда занесло?"
   # links = [
   #     { github = "https://github.com/kainsamara" },
   # ]

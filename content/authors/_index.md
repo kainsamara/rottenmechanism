@@ -1,5 +1,5 @@
 ---
-title: "Authors Taxonomy Listing Example"
+title: "Команда"
 ---
 
-A quick example of how to start using author taxonomies in your articles.
+В нашей команде я пока что один))

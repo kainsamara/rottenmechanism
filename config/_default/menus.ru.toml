@@ -11,39 +11,44 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Документация"
-  pageRef = "docs"
+  name = "Проекты"
+  pageRef = "projects"
   weight = 10
 
 [[main]]
-  name = "Шорткоды"
+  name = "Доки"
+  pageRef = "docs"
+  weight = 12
+
+[[main]]
+  name = "Шорты"
   pageRef = "docs/shortcodes"
   weight = 15
 
 [[main]]
-  name = "Примеры"
+  name = "Сэмплы"
   weight = 20
 
 [[main]]
   name = "Образцы"
-  parent = "Примеры"
+  parent = "Сэмплы"
   pageRef = "samples"
   weight = 40
 
 [[main]]
   name = "Кейсы"
-  parent = "Примеры"
+  parent = "Сэмплы"
   pageRef = "examples"
   weight = 30
 
 [[main]]
   name = "Гайды"
-  parent = "Примеры"
+  parent = "Сэмплы"
   pageRef = "guides"
   weight = 16
 
 [[main]]
-  name = "Пользователи"
+  name = "Юзера"
   pageRef = "users"
   weight = 90
 

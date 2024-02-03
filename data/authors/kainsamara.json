@@ -1,0 +1,9 @@
+{
+    "name": "Sergey Nord",
+    "image" : "img/kain_avatar.jpg",
+    "bio": "KainSamara",
+    "social": [
+        { "telegram": "https://t.me/kainsamara" },
+        { "github": "https://github.com/kainsamara" }
+    ]
+}

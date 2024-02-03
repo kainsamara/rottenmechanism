@@ -7,8 +7,7 @@ tags: ["authors", "sample"]
 summary: "A quick example of how multiple authors could be used."
 showAuthor: false
 authors:
-  - "nunocoracao"
-  - "secondauthor"
+  - "kainsamara"
 type: 'sample'
 ---
 
